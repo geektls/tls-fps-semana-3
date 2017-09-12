@@ -46,9 +46,20 @@ ul{
 }
 
 li{
-    color: white;
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    padding-right: 30px;
+}
+
+a{
+    color: #a7afbc;
+    list-style: none;
+    text-decoration: none;
     padding-right: 50px;
 }
 
-
+p{
+    font-size: 30px;
+}
 
